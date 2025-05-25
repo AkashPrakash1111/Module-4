@@ -2,8 +2,9 @@
 
 ## 🎯 Aim
 To write a Python program that calculates the **area of a circle** based on the radius provided by the user. This program uses a class named `cse` and a method `mech` to perform the calculation.
-### NAME : AJAY M
-### REG NO:212223040009
+### NAME : AKASH PRAKASH
+### REG NO:21224240008
+
 ## 🧠 Algorithm
 1. **Get user input**: Take the radius of the circle as input from the user.
 2. **Define the class**: Create a class named `cse`.
@@ -37,8 +38,10 @@ Thus the program executed successfully.
 ## Dictionary Operations in Python: Merging Two Dictionaries
 ## 🎯 Aim
 To write a Python program that merges *two dictionaries* and combines their key-value pairs.
-### NAME : AJAY M
-### REG NO:212223040009
+
+### NAME : AKASH PRAKASH
+### REG NO:21224240008
+
 ## 🧠 Algorithm
 1. Define two dictionaries dict1 and dict2 with some key-value pairs.
 2. Define a function merge() that merges the two dictionaries using the ** unpacking operator.
@@ -123,8 +126,10 @@ The program successfully sorts the dictionary by its keys and values in alphabet
 
 ## 🎯 Aim
 To write a Python program that handles an **IndexError** when trying to access an element beyond the available range of a list.
-### NAME : AJAY M
-### REG NO:212223040009
+
+### NAME : AKASH PRAKASH
+### REG NO:21224240008
+
 ## 🧠 Algorithm
 1. Define a list `list1` with some integer elements.
 2. Use a **try-except** block:
@@ -158,8 +163,8 @@ Thus the program executed successfully.
 ## 🎯 Aim
 To write a Python program that counts the number of lines in a text file story.txt that do *not* start with the alphabet 'T'.
 
-### NAME : AJAY M
-### REG NO:212223040009
+### NAME : AKASH PRAKASH
+### REG NO:21224240008
 
 ## 🧠 Algorithm
 1. Open the file story.txt in *read mode*.
